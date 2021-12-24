@@ -1,0 +1,61 @@
+$OR,D2
+* From-Time To-Time
+4 5
+* Factor
+1
+*	from      to         num of trips by Bus
+	taz_8      taz_225    1         
+	taz_9      taz_571    1         
+	taz_12     taz_248    1         
+	taz_28     taz_348    1         
+	taz_37     taz_61     1         
+	taz_40     taz_62     1         
+	taz_72     taz_71     1         
+	taz_76     taz_354    1         
+	taz_100    taz_304    1         
+	taz_115    taz_343    1         
+	taz_121    taz_186    1         
+	taz_182    taz_354    1         
+	taz_184    taz_348    1         
+	taz_194    taz_12     1         
+	taz_196    taz_263    1         
+	taz_231    taz_364    1         
+	taz_241    taz_364    1         
+	taz_253    taz_389    1         
+	taz_256    taz_264    1         
+	taz_259    taz_259    1         
+	taz_266    taz_250    1         
+	taz_269    taz_527    1         
+	taz_285    taz_402    1         
+	taz_288    taz_369    1         
+	taz_289    taz_574    1         
+	taz_314    taz_67     1         
+	taz_314    taz_354    1         
+	taz_332    taz_64     1         
+	taz_338    taz_287    1         
+	taz_343    taz_308    1         
+	taz_351    taz_402    1         
+	taz_388    taz_309    1         
+	taz_392    taz_61     1         
+	taz_394    taz_263    1         
+	taz_394    taz_408    1         
+	taz_396    taz_55     1         
+	taz_396    taz_68     1         
+	taz_403    taz_411    1         
+	taz_405    taz_354    1         
+	taz_409    taz_354    1         
+	taz_409    taz_418    1         
+	taz_409    taz_436    1         
+	taz_410    taz_308    1         
+	taz_410    taz_341    1         
+	taz_413    taz_354    1         
+	taz_418    taz_380    1         
+	taz_418    taz_389    1         
+	taz_434    taz_93     1         
+	taz_450    taz_61     1         
+	taz_451    taz_406    1         
+	taz_453    taz_409    1         
+	taz_486    taz_37     1         
+	taz_495    taz_50     1         
+	taz_506    taz_190    1         
+	taz_554    taz_406    1         

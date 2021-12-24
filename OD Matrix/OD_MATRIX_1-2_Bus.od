@@ -1,0 +1,8 @@
+$OR,D2
+* From-Time To-Time
+1 2
+* Factor
+1
+*	from      to         num of trips by Bus
+	taz_128    taz_127    1         
+	taz_171    taz_42     1         

@@ -1,0 +1,9 @@
+$OR,D2
+* From-Time To-Time
+0 1
+* Factor
+1
+*	from      to         num of trips by Vehicle
+	taz_389    taz_389    1         
+	taz_497    taz_344    1         
+	taz_542    taz_544    1         
