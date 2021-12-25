@@ -21,7 +21,7 @@ def refine_ods(od,
     for i, loc in enumerate(origins):
         location_map[loc] = i + 1
     mode_map = {1: "Vehicle", 2: "Vehicle", 3: "Bus", 4: "Subway", 5: "Bus",
-               6: "Bus", 7: "Bus", 13: "Walk/Bike", 14: "Walk/Bike"}
+               6: "Bus", 7: "Bus", 13: "Bike", 14: "Walk"}
     refined_od = od[od[time_column]<=2400]
     refined_od.replace({mode_column: mode_map}, inplace=True)
     refined_od.replace({orig_column: location_map}, inplace=True)
