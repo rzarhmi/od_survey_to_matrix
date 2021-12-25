@@ -1,0 +1,14 @@
+$OR,D2
+* From-Time To-Time
+1 2
+* Factor
+1
+*	from      to         num of trips by Walk
+	taz_69     taz_97     1         
+	taz_169    taz_97     1         
+	taz_267    taz_267    1         
+	taz_278    taz_253    1         
+	taz_308    taz_304    1         
+	taz_354    taz_355    1         
+	taz_391    taz_390    2         
+	taz_496    taz_496    1         

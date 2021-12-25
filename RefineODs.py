@@ -29,8 +29,3 @@ def refine_ods(od,
     refined_od[time_column] = refined_od[time_column] // 100
     print("DONE")
     return refined_od
-
-
-
-
-

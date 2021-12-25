@@ -1,0 +1,41 @@
+$OR,D2
+* From-Time To-Time
+5 6
+* Factor
+1
+*	from      to         num of trips by Bike
+	taz_21     taz_10     1         
+	taz_28     taz_29     1         
+	taz_36     taz_36     2         
+	taz_51     taz_183    1         
+	taz_54     taz_105    1         
+	taz_61     taz_227    1         
+	taz_64     taz_78     1         
+	taz_67     taz_84     1         
+	taz_116    taz_91     1         
+	taz_125    taz_112    1         
+	taz_181    taz_222    1         
+	taz_192    taz_97     1         
+	taz_213    taz_209    1         
+	taz_215    taz_90     1         
+	taz_228    taz_49     1         
+	taz_229    taz_162    1         
+	taz_232    taz_91     1         
+	taz_236    taz_105    1         
+	taz_262    taz_390    1         
+	taz_277    taz_97     1         
+	taz_321    taz_321    1         
+	taz_341    taz_340    1         
+	taz_346    taz_105    1         
+	taz_381    taz_520    1         
+	taz_390    taz_262    1         
+	taz_409    taz_403    1         
+	taz_426    taz_64     1         
+	taz_467    taz_471    1         
+	taz_481    taz_400    1         
+	taz_508    taz_508    1         
+	taz_579    taz_77     1         
+	taz_586    taz_586    1         
+	taz_603    taz_578    1         
+	taz_609    taz_105    1         
+	taz_615    taz_189    1         

@@ -4,6 +4,13 @@ $OR,D2
 * Factor
 1
 *	from      to         num of trips by Vehicle
-	taz_389    taz_389    1         
-	taz_497    taz_344    1         
-	taz_542    taz_544    1         
+	taz_36     taz_36     2         
+	taz_36     taz_624    2         
+	taz_91     taz_36     1         
+	taz_159    taz_458    1         
+	taz_327    taz_437    1         
+	taz_387    taz_480    1         
+	taz_497    taz_437    1         
+	taz_521    taz_521    1         
+	taz_537    taz_384    1         
+	taz_613    taz_613    2         

@@ -4,5 +4,4 @@ $OR,D2
 * Factor
 1
 *	from      to         num of trips by Bus
-	taz_128    taz_127    1         
-	taz_171    taz_42     1         
+	taz_81     taz_80     1         

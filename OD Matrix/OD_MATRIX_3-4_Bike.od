@@ -1,0 +1,9 @@
+$OR,D2
+* From-Time To-Time
+3 4
+* Factor
+1
+*	from      to         num of trips by Bike
+	taz_394    taz_400    1         
+	taz_431    taz_437    1         
+	taz_594    taz_594    2         
