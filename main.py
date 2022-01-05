@@ -48,16 +48,6 @@ class ProcessODMatrix:
         n = od_matrix_file.write(result)
         od_matrix_file.close()
 
-    def get_matrix_for_time_mode(self):
-        time_column, mode_column = self.time_column, self.mode_column
-        orig_column, dest_column = self.orig_column, self.dest_column
-        time, mode, survey = self.time, self.mode, self.survey
-        survey = survey[(survey[time_column] == time) &
-                        (survey[mode_column] == mode)]
-        survey_grouped = survey.groupby([orig_column, dest_column]).size()
-        survey_dict = dict(survey_grouped)
-        self.make_file(survey_dict, time, mode)
-        
     def get_matrix(self):
         time_column, mode_column = self.time_column, self.mode_column
         orig_column, dest_column = self.orig_column, self.dest_column
@@ -83,15 +73,6 @@ class ProcessODMatrix:
             self.make_file(survey_dict, time, mode)
 
         
-    def get_matrix_for_time(self):
-        time_column, mode_column = self.time_column, self.mode_column
-        orig_column, dest_column = self.orig_column, self.dest_column
-        time, survey = self.time, self.survey
-        survey = survey[(survey[time_column] == time)]
-        survey_grouped = survey.groupby([orig_column, dest_column]).size()
-        survey_dict = dict(survey_grouped)
-        self.make_file(survey_dict, time)
-
 
 
 if __name__=="__main__":
